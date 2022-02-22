@@ -3,7 +3,7 @@
 中小学微校园小程序, 功能包括学校概况，校园资讯，校园风光，德育工作，教师园地，学生天地，校友情深，来访预约，校园活动，
 采用腾讯提供的小程序云开发解决方案，无须服务器和域名
 
-![输入图片说明](demo/A02%E5%A4%A7%E5%AD%A6.png)
+![image](https://user-images.githubusercontent.com/100195718/155108738-93b9e18c-fbd8-4db5-bb55-c3e30a7b79a7.png)
 
 
 ## 技术运用
@@ -17,11 +17,11 @@
 - 如有疑问，欢迎骚扰联系我鸭：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知
 - 俺的微信:
 
-![输入图片说明](demo/author.jpg)
+![image](https://user-images.githubusercontent.com/100195718/155108751-79b86f22-2136-426f-bd0e-7b006e9d9866.png)
 
 ## 演示
 
-![输入图片说明](demo/A02%E5%A4%A7%E5%AD%A6.png)
+![image](https://user-images.githubusercontent.com/100195718/155108762-360abf9d-277d-499b-9de5-05afa1562be0.png)
 
 ## 安装
 - 安装手册见源码包内的word文档
@@ -29,18 +29,22 @@
 
 ## 截图
 
- ![输入图片说明](demo/26ac7ed6c8342f020a55de4a671bdd9.png)
-![输入图片说明](demo/6825ccea911c2367da345b9ee2d8ef5.png)
-![输入图片说明](demo/7897c9f7e00a39db87431e7b37f4390.png)
-![输入图片说明](demo/ffc7f3cb37e0c06eb86e6aac7976e51.png)
-![输入图片说明](demo/a3960c673eed8279fc9dcd534c09943.png)
-![输入图片说明](demo/c8ccd968945784f4a27756f8e580938.png)
-![输入图片说明](demo/18bd72d1aaf9827968002fa4986832c.png)
-![输入图片说明](demo/8d2d9380ebd33d21371c7aff500dcb9.png)
-![输入图片说明](demo/d4d75651e94085dfec849a95427bc28.png)
-![输入图片说明](demo/739bdbd3b6e6ec9969eb4d1aa6c8e4c.png)
-![输入图片说明](demo/86b61f441758475e7e2689126ba7096.png)
-![输入图片说明](demo/32f7ce9bd934a24da4de7737e828853.png)
-![输入图片说明](demo/b1d45ebe365942cefd3aa7c7eb77d55.png)
-![输入图片说明](demo/3f61d9352ec50846da6bf1ff3869ed5.png)
+![image](https://user-images.githubusercontent.com/100195718/155108779-e3b3433c-ef37-4f2f-930c-a05fdcc5e51c.png)
+![image](https://user-images.githubusercontent.com/100195718/155108854-7801725b-a55b-4996-afb1-31cf11ba41d9.png)
+
+![image](https://user-images.githubusercontent.com/100195718/155108790-8deb2d74-a5f4-4562-ac2b-ed05af227d5e.png)
+![image](https://user-images.githubusercontent.com/100195718/155108796-575e1dba-5d92-4130-8253-dbabe0c5bad4.png)
+![image](https://user-images.githubusercontent.com/100195718/155108809-8a240206-354a-40c1-82ae-55fc5aeea237.png)
+![image](https://user-images.githubusercontent.com/100195718/155108845-ff0a1e3d-0701-46fa-a7d9-6f28b1b9ed26.png)
+![image](https://user-images.githubusercontent.com/100195718/155108884-9942072d-cdf6-478a-81e1-341962ab02c7.png)
+
+![image](https://user-images.githubusercontent.com/100195718/155108828-a8f40098-1cb1-4ce8-b332-8c1d2577abbb.png)
+![image](https://user-images.githubusercontent.com/100195718/155108837-7c3099ab-30e6-439b-928f-9ea375592935.png)
+![image](https://user-images.githubusercontent.com/100195718/155108875-a458ef83-6dee-4445-ac19-679fb600d85f.png)
+
+![image](https://user-images.githubusercontent.com/100195718/155108863-2b248eeb-84f9-4f61-a33b-4d9e759c1af4.png)
+![image](https://user-images.githubusercontent.com/100195718/155108893-eed36ce6-1150-427f-b338-9144c3afe861.png)
+![image](https://user-images.githubusercontent.com/100195718/155108897-7a951a99-0af7-4657-a9e3-9808e9ded02c.png)
+![image](https://user-images.githubusercontent.com/100195718/155108909-ae60d13d-a15d-4526-86f7-127bed742bf3.png)
+
 
